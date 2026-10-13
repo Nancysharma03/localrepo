@@ -95,7 +95,7 @@ These checkpoints are stored separately from the GitHub source repository becaus
 
 ```text
 AI-Pneumonia-Detection/
-├── Chapter_8_main.ipynb
+├── AI-Assisted Pneumonia Detection from Chest X-ray Images Using CNN and ResNet50: An Intelligent Healthcare Approach main..ipynb
 ├── README.md
 └── .gitignore
 ```
